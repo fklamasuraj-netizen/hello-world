@@ -14,3 +14,5 @@ test code
 git pull example
 
 git push example
+
+git force push example
